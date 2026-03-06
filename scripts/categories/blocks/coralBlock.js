@@ -1,0 +1,122 @@
+export const coralBlock = [
+  {
+    id: "minecraft:tube_coral_block",
+    displayName: "§fTube Coral Block",
+    icon: "textures/icon/blocks/tube_coral_block_3d.png",
+    basePrice: 40,
+    stockMax: 728,
+    priceFloorPercent: 0.03,
+    priceCeilingPercent: 1.5,
+    demandWindowSize: 40,
+    restockAmount: 384,
+    restockIntervalMinutes: 16
+  },
+  {
+    id: "minecraft:brain_coral_block",
+    displayName: "§fBrain Coral Block",
+    icon: "textures/icon/blocks/brain_coral_block_3d.png",
+    basePrice: 40,
+    stockMax: 728,
+    priceFloorPercent: 0.03,
+    priceCeilingPercent: 1.5,
+    demandWindowSize: 40,
+    restockAmount: 384,
+    restockIntervalMinutes: 16
+  },
+  {
+    id: "minecraft:bubble_coral_block",
+    displayName: "§fBubble Coral Block",
+    icon: "textures/icon/blocks/bubble_coral_block_3d.png",
+    basePrice: 40,
+    stockMax: 728,
+    priceFloorPercent: 0.03,
+    priceCeilingPercent: 1.5,
+    demandWindowSize: 40,
+    restockAmount: 384,
+    restockIntervalMinutes: 16
+  },
+  {
+    id: "minecraft:fire_coral_block",
+    displayName: "§fFire Coral Block",
+    icon: "textures/icon/blocks/fire_coral_block_3d.png",
+    basePrice: 40,
+    stockMax: 728,
+    priceFloorPercent: 0.03,
+    priceCeilingPercent: 1.5,
+    demandWindowSize: 40,
+    restockAmount: 384,
+    restockIntervalMinutes: 16
+  },
+  {
+    id: "minecraft:horn_coral_block",
+    displayName: "§fHorn Coral Block",
+    icon: "textures/icon/blocks/horn_coral_block_3d.png",
+    basePrice: 40,
+    stockMax: 728,
+    priceFloorPercent: 0.03,
+    priceCeilingPercent: 1.5,
+    demandWindowSize: 40,
+    restockAmount: 384,
+    restockIntervalMinutes: 16
+  },
+  {
+    id: "minecraft:dead_tube_coral_block",
+    displayName: "§fDead Tube Coral Block",
+    icon: "textures/icon/blocks/dead_tube_coral_block_3d.png",
+    basePrice: 38,
+    stockMax: 1024,
+    priceFloorPercent: 0.02,
+    priceCeilingPercent: 1.0,
+    demandWindowSize: 40,
+    restockAmount: 512,
+    restockIntervalMinutes: 38
+  },
+  {
+    id: "minecraft:dead_brain_coral_block",
+    displayName: "§fDead Brain Coral Block",
+    icon: "textures/icon/blocks/dead_brain_coral_block_3d.png",
+    basePrice: 38,
+    stockMax: 1024,
+    priceFloorPercent: 0.02,
+    priceCeilingPercent: 1.0,
+    demandWindowSize: 40,
+    restockAmount: 512,
+    restockIntervalMinutes: 38
+  },
+  {
+    id: "minecraft:dead_bubble_coral_block",
+    displayName: "§fDead Bubble Coral Block",
+    icon: "textures/icon/blocks/dead_bubble_coral_block_3d.png",
+    basePrice: 38,
+    stockMax: 1024,
+    priceFloorPercent: 0.02,
+    priceCeilingPercent: 1.0,
+    demandWindowSize: 40,
+    restockAmount: 512,
+    restockIntervalMinutes: 38
+  },
+  {
+    id: "minecraft:dead_fire_coral_block",
+    displayName: "§fDead Fire Coral Block",
+    icon: "textures/icon/blocks/dead_fire_coral_block_3d.png",
+    basePrice: 38,
+    stockMax: 1024,
+    priceFloorPercent: 0.02,
+    priceCeilingPercent: 1.0,
+    demandWindowSize: 40,
+    restockAmount: 512,
+    restockIntervalMinutes: 38
+  },
+  {
+    id: "minecraft:dead_horn_coral_block",
+    displayName: "§fDead Horn Coral Block",
+    icon: "textures/icon/blocks/dead_horn_coral_block_3d.png",
+    basePrice: 38,
+    stockMax: 1024,
+    priceFloorPercent: 0.02,
+    priceCeilingPercent: 1.0,
+    demandWindowSize: 40,
+    restockAmount: 512,
+    restockIntervalMinutes: 38
+  }
+];
